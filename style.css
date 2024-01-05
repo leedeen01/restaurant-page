@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    background-color: burlywood;
+    height: 100vh;
+}
+
+.main-content {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: brown;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.head {
+    padding: 20px;
+    border: 2px dotted black
+}
+
+button {
+    margin: 10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 5px;
+}
